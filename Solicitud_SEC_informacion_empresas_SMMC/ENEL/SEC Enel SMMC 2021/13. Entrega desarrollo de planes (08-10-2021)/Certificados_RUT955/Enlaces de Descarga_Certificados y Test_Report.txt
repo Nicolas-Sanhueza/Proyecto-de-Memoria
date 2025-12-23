@@ -1,5 +1,0 @@
-En este enlace se encuentran las certificaciones del RUT955 donde se puede validar cada certificado y descargarlo.
-•	https://wiki.teltonika-networks.com/view/RUT955_Certification_%26_Approvals
- 
-Adicionalmente estas son pruebas públicas de los equipos
-•	https://fccid.io/2AET4RUT955V/Test-Report/Part-15B-Test-Report-3693223.pdf
